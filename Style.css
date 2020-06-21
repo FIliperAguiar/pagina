@@ -1,0 +1,40 @@
+/* Aula inicial :D */
+body {
+    background-image: url(https://www.ufrgs.br/setorsuinos/wp-content/uploads/2019/07/fundo-azul-degrade-2-1024x564.jpg);
+    background-size: auto 100vh;
+  font-family: Arial;
+   height: 100vh; 
+  }
+  .menu{
+    background-color: #4169E1;
+    
+      
+  }
+  .site-title{
+      color: #F5FFFA;
+    text-align:center;
+  }
+  .site-subtitle{
+      color: #F5FFFA;
+      text-align: center;
+     font-style: italic;
+  }
+  a{
+    text-decoration: none;
+    color: #F5FFFA;
+  }
+  a:hover {
+    text-decoration:underline;
+    color: grey;
+  }
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-Style:none;
+    
+  }
+  
+  
